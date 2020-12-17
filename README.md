@@ -1,1 +1,2 @@
-# kmeans-mnist
+This project, need 'MNIST' dataset by 'ubyte' extension
+
